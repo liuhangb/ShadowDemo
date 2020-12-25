@@ -1,0 +1,3 @@
+include ':sample-manager'
+include ':app'
+rootProject.name = "ShadowDemo"
